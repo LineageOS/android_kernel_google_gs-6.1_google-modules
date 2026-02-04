@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ab0dfbaf_cca62cac",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2026-02-04T21:16:30Z",
+      "side": 1,
+      "message": "Needed for vendor bcm4390 fw update on caimito/comet. Works as expected",
+      "revId": "290bf857c421de825f6a70d5143a9b8ac16e98c7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
